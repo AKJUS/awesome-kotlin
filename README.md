@@ -506,6 +506,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [multik](https://github.com/Kotlin/multik) - Multidimensional array library for Kotlin
 - [compose-menu](https://github.com/composablehorizons/compose-menu/) – An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.
 - [Kotlin/Native Runtime for AWS Lambda](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
+- [DocxKtm](https://github.com/alexmaryin/docxktm) - Create from scratch, open and edit DOCX files, populate templates with intuitive DSL or MVEL evaluations like in docxtpl for python
 
 ## Applications
 
