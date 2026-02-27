@@ -376,6 +376,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [android-junit5](https://github.com/mannodermaus/android-junit5) - Testing with JUnit 5 for Android.
 - [FingerprintManager](https://github.com/JesusM/FingerprintManager) - A small library to handle Android fingerprint API.
 - [kotlin-algorithm-club](https://github.com/bmaslakov/kotlin-algorithm-club) - Algorithms and data structures in Kotlin.
+- [pods4k](https://github.com/daniel-rusu/pods4k) - Performance-oriented data structures for Kotlin, including Immutable Arrays
 - [composer](https://github.com/gojuno/composer) - Reactive Android Instrumentation Test Runner. Archived. Marathon is recommended as an alternative (https://github.com/Malinskiy/marathon).
 - [AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout) - Yet another android tab layout
 - [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
