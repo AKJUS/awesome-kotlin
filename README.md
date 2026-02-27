@@ -69,6 +69,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) - You can easily add awesome animated context menu to your app.
 - [mockk](https://github.com/mockk/mockk) - mocking library for Kotlin
+- [BitDive](https://bitdive.io) - Zero-code integration testing platform that generates tests from runtime application behavior
 - [Fotoapparat](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly. 📸
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) - null
 - [corda](https://github.com/corda/corda) - Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
